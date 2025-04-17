@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1 = srikanth
-PERSON2 = dinesh
+PERSON1=srikanth
+PERSON2=dinesh
 
 echo "$PERSON1 :: hello $PERSON2"
 echo "$PERSON2:: hello $PERSON1"
