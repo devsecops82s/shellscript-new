@@ -17,7 +17,7 @@ fi
 
 
 dnf install git -y
-if[ $? -ne 0 ]
+if [ $? -ne 0 ]
 then
     echo "Installing GIT ... FAILURE"
     exit 1
