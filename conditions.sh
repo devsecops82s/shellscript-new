@@ -6,7 +6,7 @@ NUMBER=$1
 
 if [$NUMBER -gt 100]
 then
-    echo "given number is graterthan 100"
+    echo "given number is greater than 100"
 else
     echo "given number is leass than or equal to 100"
 fi
